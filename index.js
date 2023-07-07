@@ -1,4 +1,4 @@
-const sdk = require("eth-liquid-staking-sdk")
+const sdk = require("@metapool/eth-liquid-staking-sdk")
 const ethers = require("ethers")
 
 async function run() {
